@@ -1,0 +1,31 @@
+{
+    "token": "MTA5NDQyNzk2ODIwMzM5OTIyOA.GFmIvH.IRtdD6a_Sg1D0bZpXi3dL_a-1Dnpr5fJonvqKc",
+    "prefix": "BOTUN ÖN EKİ ( örnek: ! )",
+    
+
+
+    "presence": {
+        "name": "Last Hogwarts'a hizmet vermektedir",
+        "type": "Last Hogwarts Oynuyor"
+    },
+
+    "rol": {
+        "booster": "1108104830427345018"
+    },
+
+    "kayıt": {
+        "kayıtsızID": "1070733244422684775",
+        "erkekID": "1070733244422684776",
+        "kızID": "1070733244422684777",
+        "kayıtYetkiliID": "1070733244565291048",
+
+        "kayıtchatID": "1070733244997320709",
+
+        "tag": "",
+        "kayıtsızNick": ""
+    },
+
+    "emoji": {
+        "amblem": ""
+    }
+}
